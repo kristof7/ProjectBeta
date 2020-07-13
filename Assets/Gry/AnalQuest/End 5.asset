@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25e6f0ed314f30a4cb8ec00bd9fa8a15, type: 3}
+  m_Name: End 5
+  m_EditorClassIdentifier: 
+  TextFile1: 'You put your dick in girl mouth.... After a strugle battle girl take
+    a bit off you dick...
+
+    You are bleding....Mind fading away.....
+
+
+    YOU ARE DEAD
+
+
+
+    GAME OVER
+
+
+    Press 1 to restart game'
+  nextStates:
+  - {fileID: 11400000, guid: f631d73a9beb046488820fe9d165cdae, type: 2}

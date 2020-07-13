@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25e6f0ed314f30a4cb8ec00bd9fa8a15, type: 3}
+  m_Name: Win 6
+  m_EditorClassIdentifier: 
+  TextFile1: 'You have WIN. You fill her ass with hot semsn. But what to do next ?
+
+
+    Press 1 to go to Porn Shop
+
+    Press 2 Talk to strange man'
+  nextStates:
+  - {fileID: 11400000, guid: a5948a6c16b7d0e4aa422ec61b5a3f15, type: 2}
+  - {fileID: 11400000, guid: a343200f2e8bfef4891d37e51ad6e520, type: 2}

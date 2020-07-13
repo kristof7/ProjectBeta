@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 5ee4f1c3c551a0d42a8b329685d53ea1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1368318640980317612
+    second: QuuBeerSign_0
+  - first:
+      213: -832464878335368109
+    second: QuuBeerSign_1
+  - first:
+      213: 7602851911022857483
+    second: QuuBeerSign_2
+  - first:
+      213: 160170694908392227
+    second: QuuBeerSign_3
+  - first:
+      213: 7555819130167672112
+    second: QuuBeerSign_4
+  - first:
+      213: 4948509317329599067
+    second: QuuBeerSign_5
+  - first:
+      213: 6062825287642281850
+    second: QuuBeerSign_6
+  - first:
+      213: 6684620851613159432
+    second: QuuBeerSign_7
+  - first:
+      213: -6640052936458577863
+    second: QuuBeerSign_8
+  - first:
+      213: -7718628920991569528
+    second: QuuBeerSign_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: QuuBeerSign_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 999
+        width: 708
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d7f54c4d90bf84f8378ec91b026ce6
+      internalID: 1368318640980317612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuuBeerSign_1
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1005
+        width: 677
+        height: 824
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b2aece23500ec49b3021c7241d2eab
+      internalID: -832464878335368109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuuBeerSign_2
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 994
+        width: 678
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64184ecced0a2c45b9750b6073efb2f
+      internalID: 7602851911022857483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuuBeerSign_3
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 984
+        width: 676
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2399845c76401418c2e9ad8b13ab6b
+      internalID: 160170694908392227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuuBeerSign_4
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 997
+        width: 675
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1a91e5c155e484ab02de781ceeb196
+      internalID: 7555819130167672112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuuBeerSign_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 675
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0a799e96165b141a8b55cb9d32b9c4
+      internalID: 4948509317329599067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuuBeerSign_6
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 0
+        width: 678
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f674f309e582ce04aa6558ac34901a40
+      internalID: 6062825287642281850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuuBeerSign_7
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 10
+        width: 678
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcee72b0bbf62d447a0c5b691db174bc
+      internalID: 6684620851613159432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuuBeerSign_8
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 1
+        width: 678
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458fb8a1f372efd4cbcb99e8594e68e2
+      internalID: -6640052936458577863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QuuBeerSign_9
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 0
+        width: 681
+        height: 824
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b410ac607ce7f419bf2b16793779f3
+      internalID: -7718628920991569528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f5937bea20eba1e468865cdf3af5ecfa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

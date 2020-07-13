@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25e6f0ed314f30a4cb8ec00bd9fa8a15, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  TextFile1: "You wake up in starange room and see 2 door's.\r\nFrom first door is
+    wonderfull smell of alcohole and from secound you feel mighty power.\r\nOr you
+    could youst snoop around this room.\nWith door do you choose ?\r\n\r\nPress 1
+    to enter 1 door\r\nPress 2 to enter 2 door\nPress 3 to snoop around\n"
+  nextStates:
+  - {fileID: 11400000, guid: b4f84f3805e051a40be9d122227220ad, type: 2}
+  - {fileID: 11400000, guid: 1acfe909fbf31384589dc28fcf2e4c88, type: 2}
+  - {fileID: 11400000, guid: 8cacda782ced4fb48855263b2324399f, type: 2}

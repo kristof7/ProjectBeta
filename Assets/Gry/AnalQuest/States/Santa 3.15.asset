@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25e6f0ed314f30a4cb8ec00bd9fa8a15, type: 3}
+  m_Name: Santa 3.15
+  m_EditorClassIdentifier: 
+  TextFile1: 'Santa call Slight shouting in the sky Allah Save us All, and send those
+    non belivers to hell. Then you saw Sleight looking like Commercial Plane flying
+    in your direction.... And then Slaight hit some Hightest tower in Manhattan...  Santa
+    Osama said to you no worry my boy, I will call for another one ! (Now you see
+    burning tower)
+
+
+
+    Press 1 to let Snata Osama order another Sleight
+
+    Press 2 to stop Santa'
+  nextStates:
+  - {fileID: 11400000, guid: bb083563a2ede5c4180289677391a107, type: 2}
+  - {fileID: 11400000, guid: 498f94fae5f916d43a2932aeb9a58419, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25e6f0ed314f30a4cb8ec00bd9fa8a15, type: 3}
+  m_Name: Room 11
+  m_EditorClassIdentifier: 
+  TextFile1: 'You enter the secound room. And sudenly you realized you are in New
+    York City, after that nerbly taxi cab run you over. But you aren''t angry becouse
+    you are amazed about this City.
+
+
+    1. Take a crap on Taxi
+
+    2. Talk to strange man'
+  nextStates:
+  - {fileID: 11400000, guid: cf0366b6a0f21064980045bbd24b9d70, type: 2}
+  - {fileID: 11400000, guid: a343200f2e8bfef4891d37e51ad6e520, type: 2}

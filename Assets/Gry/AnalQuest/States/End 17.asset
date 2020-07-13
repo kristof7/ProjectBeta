@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25e6f0ed314f30a4cb8ec00bd9fa8a15, type: 3}
+  m_Name: End 17
+  m_EditorClassIdentifier: 
+  TextFile1: 'You choose to atack her pusssy... She resist but you have the feling
+    you are going to win...
+
+    And then you cum... Inside... You fade away..
+
+
+    Some time after (9 mounths later) your Sword don''t stand... You live in suburb''s
+    and work in some Evil Corporation.. Your Life don''t end but live of your sword
+    and soul ended.
+
+
+    Press 1 to restart Game'
+  nextStates:
+  - {fileID: 11400000, guid: f631d73a9beb046488820fe9d165cdae, type: 2}

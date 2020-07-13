@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25e6f0ed314f30a4cb8ec00bd9fa8a15, type: 3}
+  m_Name: Room2.1a
+  m_EditorClassIdentifier: 
+  TextFile1: 'You take a crap on that fucking taxi... A lot of crap and then driver
+    get out of the taxi. In angry driver start''s to atack you. Driver is Great Ass
+    looking Girl, blonde and C cup.
+
+
+    Your Only Gun is your Cock...
+
+
+    How do you atack Her ?
+
+
+    Press 1. In Mounth
+
+    Press 2. In Pussy
+
+    Press 3. In Ass'
+  nextStates:
+  - {fileID: 11400000, guid: b8dda6c2419562d4ebec5ed3692385cc, type: 2}
+  - {fileID: 11400000, guid: f72b5749cffa8554f8cd3fbf663b49dc, type: 2}
+  - {fileID: 11400000, guid: d9876e723ae44db4da64390023e6ce77, type: 2}

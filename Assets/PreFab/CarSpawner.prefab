@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6235997131788529868
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6235997131788529870}
+  - component: {fileID: 8609524379009309238}
+  m_Layer: 0
+  m_Name: CarSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &6235997131788529870
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6235997131788529868}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 945.8784, y: 120.02656, z: 90}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8609524379009309238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6235997131788529868}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04bef217036742a4689beb1fcf7cc069, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  minSpawnDelay: 1
+  maxSpawnDelay: 5
+  carPrefabArray:
+  - {fileID: 7427735409180737175, guid: d2df9c9f04d0fab4ea5e9ade38d8df7d, type: 3}
+  - {fileID: 6144109277622137162, guid: 5c82698b5c5a3494ba9a3ca59c887de2, type: 3}
+  - {fileID: 3865057792162779079, guid: 947893b4a68ab5344a86e6b759a3fc44, type: 3}
+  - {fileID: 594344652329891921, guid: 6f7d9b5aa896e474d908ec8635b2b103, type: 3}
+  - {fileID: 5823412128295482699, guid: 3cbb468359ef5dc42a83a0dbfbf890b1, type: 3}
+  - {fileID: 1599524747814681795, guid: b561b193261004543b36ef63312fa4ba, type: 3}
+  - {fileID: 4890708364570740873, guid: 498dd1ab6f422b641883809f0513c445, type: 3}
+  - {fileID: 537189244147368991, guid: c8b5d1008fd808442bc07607216f96e1, type: 3}
+  - {fileID: 4738818939785348728, guid: 2ec0dcfe931f4b243887fb0895280325, type: 3}
+  - {fileID: 6751704575612908102, guid: c351f7e581bce9441b638ee3176f967a, type: 3}
+  - {fileID: 108853386299914493, guid: 678d42eb966415641bb8319fc1d4d642, type: 3}
+  - {fileID: 1428035636717852505, guid: 301d0b457822246438fed4dfbe4a983d, type: 3}
+  - {fileID: 6974427340396005104, guid: 36c231b2cf155a545927a87dd06e1ae6, type: 3}

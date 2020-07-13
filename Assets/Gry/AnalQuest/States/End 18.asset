@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25e6f0ed314f30a4cb8ec00bd9fa8a15, type: 3}
+  m_Name: End 18
+  m_EditorClassIdentifier: 
+  TextFile1: 'Ossama sorry Santa thinks that you are this porn star... Long story
+    short you have been raped to death in Santa IceLand or Iraq some forgoten hole
+    in the ground.
+
+
+    YOU ARE DEAD
+
+
+    Press 1 to restart game'
+  nextStates:
+  - {fileID: 11400000, guid: f631d73a9beb046488820fe9d165cdae, type: 2}
