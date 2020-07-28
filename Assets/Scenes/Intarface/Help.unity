@@ -190,7 +190,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Project Beta Game - FAQ
+  m_Text: 'Project Beta Game - Help
 
 '
 --- !u!222 &187250193
@@ -786,11 +786,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'This is beta version of the game
+  m_Text: 'Klawisze:
 
 
-    Press New Game to enjoy the game
-    :)'
+    Inventory - I lub B
+
+
+    Menu - Esc'
 --- !u!222 &949809439
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -799,7 +801,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 949809436}
   m_CullTransparentMesh: 0
---- !u!1 &2045617264
+--- !u!1 &1280979803
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -807,9 +809,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 2045617265}
-  - component: {fileID: 2045617267}
-  - component: {fileID: 2045617266}
+  - component: {fileID: 1280979804}
+  - component: {fileID: 1280979806}
+  - component: {fileID: 1280979805}
   m_Layer: 0
   m_Name: Copyright
   m_TagString: Untagged
@@ -817,13 +819,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!224 &2045617265
+--- !u!224 &1280979804
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2045617264}
+  m_GameObject: {fileID: 1280979803}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -17.986103}
   m_LocalScale: {x: 1.0005939, y: 1.0005939, z: 1.0005939}
@@ -836,13 +838,13 @@ RectTransform:
   m_AnchoredPosition: {x: 308.14996, y: 199}
   m_SizeDelta: {x: 183.69998, y: 32.979248}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &2045617266
+--- !u!114 &1280979805
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2045617264}
+  m_GameObject: {fileID: 1280979803}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
@@ -869,13 +871,13 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: Qnaga Studios Version 0.0.8
---- !u!222 &2045617267
+--- !u!222 &1280979806
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2045617264}
+  m_GameObject: {fileID: 1280979803}
   m_CullTransparentMesh: 0
 --- !u!4 &6818607186283790496
 Transform:
@@ -1035,7 +1037,7 @@ RectTransform:
   - {fileID: 337958398}
   - {fileID: 949809437}
   - {fileID: 187250191}
-  - {fileID: 2045617265}
+  - {fileID: 1280979804}
   m_Father: {fileID: 6818607186283790496}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
