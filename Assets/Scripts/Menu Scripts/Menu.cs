@@ -22,6 +22,12 @@ public class Menu : MonoBehaviour
         SceneManager.LoadScene(sceneNumber);
     }
 
+        public void LoadActualScene()
+    {
+        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+        SceneManager.LoadScene(currentSceneIndex);
+    }
+
     public void LoadScenePlayerhide()
     {
         player = GameObject.Find("Player");
@@ -34,7 +40,6 @@ public class Menu : MonoBehaviour
         int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
         SceneManager.LoadScene(currentSceneIndex + 1);
     }
-
 
     public void OpenUI()
     {
