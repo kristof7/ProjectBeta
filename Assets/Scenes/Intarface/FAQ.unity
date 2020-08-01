@@ -147,7 +147,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 187250190}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 100}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.89901495, y: 0.89901495, z: 0.89901495}
   m_Children: []
   m_Father: {fileID: 6818607187655640195}
@@ -374,7 +374,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 337958397}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 100}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.89901495, y: 0.89901495, z: 0.89901495}
   m_Children: []
   m_Father: {fileID: 6818607187655640195}
@@ -743,7 +743,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 949809436}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 100}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.89901495, y: 0.89901495, z: 0.89901495}
   m_Children: []
   m_Father: {fileID: 6818607187655640195}
@@ -775,10 +775,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
-    m_FontSize: 22
+    m_FontSize: 16
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 2
+    m_MinSize: 1
     m_MaxSize: 40
     m_Alignment: 0
     m_AlignByGeometry: 0
@@ -786,11 +786,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'This is beta version of the game
-
-
-    Press New Game to enjoy the game
-    :)'
+  m_Text: "Nowo\u015Bci:\nDO ZROBIENIA\n- Nowe przedmioty ID Card\n- Nowa lokacja
+    Lobby Biura\n- Nowa animacja bochatera\n- Uzywanie przedmiotow na NPC i na obiekatach\n\nNa
+    build 0.0.9: \n"
 --- !u!222 &949809439
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -825,7 +823,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2045617264}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -17.986103}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1.0005939, y: 1.0005939, z: 1.0005939}
   m_Children: []
   m_Father: {fileID: 6818607187655640195}
